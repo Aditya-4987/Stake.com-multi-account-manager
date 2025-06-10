@@ -11,10 +11,10 @@ Built for transparency, accountability, and ease of use.
   Track balances, remarks, and transactions for any number of accounts.
 
 - **Bet Placement:**  
-  Place bets on IPL matches, assign accounts to teams, and auto-calculate bet amounts based on odds.
+  Place bets on IPL matches, assign accounts to teams, and auto-calculate bet amounts based on odds.(no real bet just for tracking)
 
 - **Active Bets & Results:**  
-  View all active bets, apply results (win/loss/cashout), and update balances accordingly.
+  View all active bets, apply results (win/loss/cashout), and update balances accordingly.(should be managed by your self)
 
 - **Bet History:**  
   Browse detailed history of all completed bets, including account-level breakdowns.
@@ -33,8 +33,7 @@ Built for transparency, accountability, and ease of use.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ipl-betting-tracker.git
-   cd ipl-betting-tracker
+   git clone https://github.com/Aditya-4987/Stake.com-multi-account-manager
    ```
 
 2. **Install dependencies:**
@@ -98,7 +97,7 @@ This project is for educational and personal tracking purposes only.
 
 ## 📧 Contact
 
-For issues, suggestions, or contributions, open an [issue](https://github.com/yourusername/ipl-betting-tracker/issues) or contact the maintainer.
+For issues or suggestions, just contack me.
 
 ---
 
