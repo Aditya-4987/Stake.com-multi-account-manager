@@ -1,0 +1,1 @@
+# Stake.com-multi-account-manager
