@@ -1,0 +1,5 @@
+streamlit>=1.25.0
+pandas>=1.3.0
+numpy>=1.21.0
+# For SQLite, Python's built-in sqlite3 is used (no need to list)
+# For logging, shutil, threading, etc., all are standard library modules
